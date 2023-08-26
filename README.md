@@ -14,11 +14,11 @@ sudo apt-get install python3-dev
 
 # Tmux dependencies
 
-FiraCode font
+JetBrainsMono Nerd font
 https://www.nerdfonts.com/font-downloads
 unpack into ~/.fonts
 `fc-cache -fv`
-change default font to FiraCode. E.g. by editing your ubuntu terminal profile
+change default font to JetBJetBrainsMono. E.g. by editing your ubuntu terminal profile
 
 `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
 
